@@ -20,21 +20,6 @@ public class Buys {
     private LocalDateTime date;
     private String mediaPage;
     private String stare;
-    @ManyToOne
-    @ManyToOne
-    @ManyToOne
-    @ManyToOne
-    @ManyToOne
-    @ManyToOne
-    @ManyToOne
-    @ManyToOne
-    @ManyToOne
-    @ManyToOne
-    @ManyToOne
-    @ManyToOne
-    @ManyToOne
-    @ManyToOne
-    @ManyToOne
 
     @JoinColumn(name = "idClient", insertable = true, updatable = false)
     private Client client;

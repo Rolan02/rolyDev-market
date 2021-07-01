@@ -1,2 +1,26 @@
+com/jalafoundation/apimarket/persistence/crud/ProductRepositoryCRUD.java
+ com.jalafoundation.apimarket.persistence.crud.ProductRepositoryCRUD
+com/jalafoundation/apimarket/persistence/entity/Client.java
+ com.jalafoundation.apimarket.persistence.entity.Client
 com/jalafoundation/apimarket/web/controller/ApiMarketApplication.java
  com.jalafoundation.apimarket.web.controller.ApiMarketApplication
+com/jalafoundation/apimarket/persistence/entity/Buys.java
+ com.jalafoundation.apimarket.persistence.entity.Buys
+com/jalafoundation/apimarket/persistence/entity/BuysProductPK.java
+ com.jalafoundation.apimarket.persistence.entity.BuysProductPK
+com/jalafoundation/apimarket/persistence/entity/Producto.java
+ com.jalafoundation.apimarket.persistence.entity.Producto
+com/jalafoundation/apimarket/persistence/mapper/CategoryMapper.java
+ com.jalafoundation.apimarket.persistence.mapper.CategoryMapper
+com/jalafoundation/apimarket/persistence/entity/BuysProduct.java
+ com.jalafoundation.apimarket.persistence.entity.BuysProduct
+com/jalafoundation/apimarket/persistence/entity/Category.java
+ com.jalafoundation.apimarket.persistence.entity.Category
+com/jalafoundation/apimarket/persistence/ProductRepository.java
+ com.jalafoundation.apimarket.persistence.ProductRepository
+com/jalafoundation/apimarket/web/controller/ProductController.java
+ com.jalafoundation.apimarket.web.controller.ProductController
+com/jalafoundation/apimarket/domain/service/ProductService.java
+ com.jalafoundation.apimarket.domain.service.ProductService
+com/jalafoundation/apimarket/domain/repository/ProductRepository.java
+ com.jalafoundation.apimarket.domain.repository.ProductRepository

@@ -18,9 +18,9 @@ com/jalafoundation/apimarket/persistence/entity/Category.java
  com.jalafoundation.apimarket.persistence.entity.Category
 com/jalafoundation/apimarket/persistence/ProductRepository.java
  com.jalafoundation.apimarket.persistence.ProductRepository
+com/jalafoundation/apimarket/domain/repository/ProductRepository.java
+ com.jalafoundation.apimarket.domain.repository.ProductRepository
 com/jalafoundation/apimarket/web/controller/ProductController.java
  com.jalafoundation.apimarket.web.controller.ProductController
 com/jalafoundation/apimarket/domain/service/ProductService.java
  com.jalafoundation.apimarket.domain.service.ProductService
-com/jalafoundation/apimarket/domain/repository/ProductRepository.java
- com.jalafoundation.apimarket.domain.repository.ProductRepository

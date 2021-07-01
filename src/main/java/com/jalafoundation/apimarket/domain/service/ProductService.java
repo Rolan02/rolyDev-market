@@ -8,10 +8,10 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
 
-@Service  //@Component  es lo mismo
+@Service  //@Component  es lo mismo pero el @Service hace una mejor referencia
 public class ProductService {
 
-    @Autowired
+    @Autowired(required = true)
     private ProductRepository productRepository;
 
     public List<Producto> getAll(){

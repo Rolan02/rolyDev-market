@@ -1,0 +1,2 @@
+com/jalafoundation/apimarket/web/controller/ApiMarketApplication.java
+ com.jalafoundation.apimarket.web.controller.ApiMarketApplication
